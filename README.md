@@ -28,6 +28,6 @@ Here are some of my key projects:
 
 ## 📫 Contact
 - GitHub: [Maibrahim30](https://github.com/Maibrahim30)  
-- Email: youremail@example.com  
+- Email: cloudmaill@proton.me
 
 ✨ **Let's make iOS development and deployment smoother!**
